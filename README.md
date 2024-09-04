@@ -1,6 +1,6 @@
 ## Fancy seeing you here! 
 
-I am Nick, a BMSTU student and part-time beginner frontend developer. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Nick, a BMSTU student and also frontend developer. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Gmail Badge](https://img.shields.io/badge/-klausanv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klausanv@gmail.com)](mailto:klausanv@gmail.com)
 
