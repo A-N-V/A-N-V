@@ -15,7 +15,7 @@ I am Nick, a BMSTU student and also frontend developer. Always open to collabora
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![SASS](https://img.shields.io/badge/-SASS-white?style=flat-square&logo=sass)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=prettier)
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=eslint)
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=stylelint)
+![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=prettier)
+![ESlint](https://img.shields.io/badge/-ESlint-black?style=flat-square&logo=eslint)
+![Stylelint](https://img.shields.io/badge/-Stylelint-black?style=flat-square&logo=stylelint)
 
