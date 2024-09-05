@@ -6,7 +6,7 @@ I am Nick, a BMSTU student and also frontend developer. Always open to collabora
 
 ## ⚡ Technologies
 
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextjs)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-8A2BE2?style=flat-square&logo=redux)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
