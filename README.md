@@ -14,3 +14,4 @@ I am Nick, a BMSTU student and also frontend developer. Always open to collabora
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![SASS](https://img.shields.io/badge/-SASS-white?style=flat-square&logo=sass)
+![SASS](https://img.shields.io/badge/-SASS-white?style=flat-square&logo=jest)
