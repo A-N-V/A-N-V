@@ -18,4 +18,4 @@ I am Nick, a BMSTU student and also frontend developer. Always open to collabora
 ![Prettier](https://img.shields.io/badge/-Prettier-402966?style=flat-square&logo=prettier)
 ![ESlint](https://img.shields.io/badge/-ESlint-6902de?style=flat-square&logo=eslint)
 ![Stylelint](https://img.shields.io/badge/-Stylelint-black?style=flat-square&logo=stylelint)
-
+![Husky](https://img.shields.io/badge/-Husky-black?style=flat-square&logo=husky)
