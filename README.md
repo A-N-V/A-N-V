@@ -19,4 +19,4 @@ I am Nick, a BMSTU student and also frontend developer. Always open to collabora
 ![ESlint](https://img.shields.io/badge/-ESlint-6902de?style=flat-square&logo=eslint)
 ![Stylelint](https://img.shields.io/badge/-Stylelint-black?style=flat-square&logo=stylelint)
 ![Husky](https://img.shields.io/badge/-Husky-00f7ff?style=flat-square&logo=husky)
-![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRkdjkzcHYzcW0zOGNzOGdvMTUzYXprZG53dGQzZWFxZ241OWRqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6LMCkc5oqhdyU/giphy.gif)
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF0Nnc2a2NlbXkzMzM3M25udW9yNjF6ejdpNGhrbGg5MjNrdzhiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XpDqg9dy0IoBh48rXp/giphy.gif)
