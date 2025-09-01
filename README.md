@@ -20,7 +20,7 @@ I am Nick, a BMSTU student and also frontend developer. Always open to collabora
 ![Stylelint](https://img.shields.io/badge/-Stylelint-black?style=flat-square&logo=stylelint)
 ![Husky](https://img.shields.io/badge/-Husky-00f7ff?style=flat-square&logo=husky)
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF0Nnc2a2NlbXkzMzM3M25udW9yNjF6ejdpNGhrbGg5MjNrdzhiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XpDqg9dy0IoBh48rXp/giphy.gif)
-MMMMMMMBa:           .ibDRKO5r.           .~!RMMMMMMMMMOL!. ./RMMMMMMMWB5""/YC?+
+```MMMMMMMBa:           .ibDRKO5r.           .~!RMMMMMMMMMOL!. ./RMMMMMMMWB5""/YC?+
 MMMMB9i^.             '+ii?!.                *WMMMMMMMMW2":;rLXBRBMMMMMMWmABBBBg
 MMM@Z*. ..           ."ie$hi!.               .%MMMMMMMMR|:'"r?fyUWMMMMMMMMMWWWRh
 MMMWZ;...            .^iyEECr'.               *WMMMMMMBe!.  ...!EWMMMMMMMMMMM@Rw
@@ -72,4 +72,4 @@ ow$4hawZhhZ4ZeY%PXXay2aZ%Ehh5%r';^.:'..........-'.|5iYiCy2o5hyya55if5XhCYYYIeaaY
 YaaZe5a5e5%h%3CY5$ae2%ha3y%%a5i."^.:-............:Y11CfY{{YYYz3n5{io5ho1{C3yy%2Y
 (Y3eYe2IYYYI55Y{Ye55eI35aee5ne{::".-.............r3iiizYYYY{zCY{f<C5YYC[L{YYY%ay
 .~ifLC{117zzL3yY[CIoYYYyhnYCYYYr':..............'f{{|1Li1Y{{3%IY/1%aYz?((i11YyYr
- .!cz{Lzz117i11IiiLIY3Y{%IY{o1YY:........... .. ^1i</Li{Y{zC551|r2eC(r!rr(ii7i+:
+ .!cz{Lzz117i11IiiLIY3Y{%IY{o1YY:........... .. ^1i</Li{Y{zC551|r2eC(r!rr(ii7i+:```
